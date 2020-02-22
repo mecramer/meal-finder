@@ -2,7 +2,7 @@
 
 This app lets a user search for meals and get more information on it including a picture, ingredients needed and instruction on how to prepare.
 
-* HTML/CSS used to create a search bar a grid of search results. There is also a choose random meal button
+* HTML/CSS used to create a search bar grid of search results. There is also a choose random meal button
 * Responsive design is used to determine how many items to show accross the screen depending on screen width
 * Hovering over the image shows the dish name
 * Clicking on the image will show the dish details below the search reesults
